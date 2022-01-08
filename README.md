@@ -7,5 +7,5 @@ For my online curriculum I've created a react.js App, exploring the animation po
 [Check out my CV](https://vitorbranco-cv.web.app)
 
 
-[Text typer Rect.js components](https://github.com/vitorlb/text-typer)
+[Text typer React.js components](https://github.com/vitorlb/text-typer)
 
